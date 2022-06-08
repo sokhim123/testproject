@@ -1,1 +1,2 @@
 hello world
+this a new line in file text.txt
